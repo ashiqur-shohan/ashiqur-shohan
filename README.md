@@ -1,7 +1,4 @@
-### Hi there 👋
-
-<!--
-**ashiqur-shohan/ashiqur-shohan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there 👋
 
 Here are some ideas to get you started:
 
@@ -13,4 +10,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+PHP ![PHP learning progress](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=70&leftFill=%2300FFFF "PHP learning progress")
