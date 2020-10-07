@@ -1,7 +1,11 @@
 Hi there 👋
-
-Here are some ideas to get you started:
-
+<html>
+   <body>
+      <h2 align="center">Bio</h2>
+      <p align="center">
+        Hi, My name is Ashiqur Rahman Shohan and i'm from Bangladesh. I'm an undergraduate Statistics student at University of Chittagong. I am fascinated by Data Science. Always willing to learn and implement. Through self-study and enrolling in various online courses currently i'm learning python and R language. I'm a teacher also. I have 2 year experience in teaching. I love to teach what i have learn. I want develop my skill by leaning more about data science. 
+     </P> </body>
+     </html>
 - 🔭 I’m currently working on Statistics
 - 🌱 I’m currently learning SQL
 - 👯 I’m looking to collaborate on ...
