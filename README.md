@@ -1,5 +1,5 @@
 Hi there 👋<br/>
- *[View My CV]()*
+ *[View My Resume](https://drive.google.com/file/d/1J9IeXLYZn7tB6l1yPKu7-B2LIv0J75XL/view?usp=sharing)*
  | *[View My Certificates](https://github.com/ashiqur-shohan/Certificate-)*
 <br />
       <h2 align="center">Bio</h2>
