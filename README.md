@@ -17,7 +17,7 @@ Hi there 👋<br/>
   </a>
   
 
-  <a href="https://www.linkedin.com/in/ashiqur-rahman-96b438197/">
+  <a href="https://www.linkedin.com/in/ashiqur-rahman/">
     <img src="https://github.com/ashiqur-shohan/icon/blob/main/linkedin-icon.svg" alt="Ashiqur Rahman shohan LinkedIn Profile" height="30" width="30">
   </a>
 
