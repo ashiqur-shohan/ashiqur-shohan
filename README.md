@@ -30,17 +30,7 @@ Hi there 👋<br/>
     <img src="https://github.com/ashiqur-shohan/icon/blob/main/dev-badge.svg" alt="Ashiqur Rahman shohan DEV Profile" height="30" width="30">
   </a>
   <br/>
-<h2> Languages : </h2>
 
-<img align ="left" src="https://github.com/ashiqur-shohan/icon/blob/main/html.png" height="30" width="30" > 
-<img align ="left" src="https://github.com/ashiqur-shohan/icon/blob/main/iconfinder_267_Python_logo_4375050.svg" height="30" width="30" >
-<br/>
-
-### Tools
-<img align ="left" src="https://github.com/ashiqur-shohan/icon/blob/main/git.svg" height="30" width="30" > 
-<img align ="left" src="https://github.com/ashiqur-shohan/icon/blob/main/visual-studio-code-1%20(1).svg" height="30" width="30" > 
-<img align ="left" src="https://github.com/ashiqur-shohan/icon/blob/main/pycharm-logo.png" height="30" width="30" > 
-<br/>
 
 ### Skill
 
