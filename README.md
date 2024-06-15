@@ -27,11 +27,6 @@ Hi there 👋<br/>
   </a>
   <br/>
 
-
-### Skill
-
-Microsoft excel ![Excel learning progress](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=60&leftFill=%23C0C0C0 "PHP learning progress")
-<br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashiqur-shohan&theme=graywhite)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ashiqur-shohan&show_icons=true)  
