@@ -4,8 +4,8 @@ Hi there 👋<br/>
 <br />
 <h1 align="center">Hi 👋, I'm Ashiqur Rahman Shohan</h1>
 # 💫 About Me:
-- 🔭 I’m currently working on [ByteJobs](https://github.com/ashiqur-shohan/byteJobs-frontend)<br><br>- 🌱 I’m currently learning **django-channels, cellery**<br><br>- 👯 I’m looking to collaborate on **Full-Stack PetHouse Web-Application**<br><br>- 👨‍💻 All of my projects are available at [https://shohan-portfolio.vercel.app/](https://shohan-portfolio.vercel.app/)<br><br>- 💬 Ask me about **django**<br><br>- 📫 How to reach me **ashiqur.shohan@gmail.com**
-
+<p>- 🔭 I’m currently working on [ByteJobs](https://github.com/ashiqur-shohan/byteJobs-frontend)<br><br>- 🌱 I’m currently learning **django-channels, cellery**<br><br>- 👯 I’m looking to collaborate on **Full-Stack PetHouse Web-Application**<br><br>- 👨‍💻 All of my projects are available at [https://shohan-portfolio.vercel.app/](https://shohan-portfolio.vercel.app/)<br><br>- 💬 Ask me about **django**<br><br>- 📫 How to reach me **ashiqur.shohan@gmail.com**
+</p>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ashiqur.shohan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashiqur-shohan) 
@@ -26,10 +26,5 @@ Hi there 👋<br/>
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ashiqur-shohan&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=ashiqur-shohan&icon=5&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
