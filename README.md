@@ -3,7 +3,7 @@ Hi there 👋<br/>
  | *[View My Certificates](https://github.com/ashiqur-shohan/Certificate-)*
 <br />
 # Hi 👋, I'm Ashiqur Rahman Shohan
-(https://i.ibb.co/k9YrtWg/Colorful-Shapes-Header-Banner.png)
+![](https://i.ibb.co/k9YrtWg/Colorful-Shapes-Header-Banner.png)
 # 💫 About Me:
 <p>- 🔭 I’m currently working on [ByteJobs](https://github.com/ashiqur-shohan/byteJobs-frontend)<br><br>- 🌱 I’m currently learning **django-channels, cellery**<br><br>- 👯 I’m looking to collaborate on **Full-Stack PetHouse Web-Application**<br><br>- 👨‍💻 All of my projects are available at [https://shohan-portfolio.vercel.app/](https://shohan-portfolio.vercel.app/)<br><br>- 💬 Ask me about **django**<br><br>- 📫 How to reach me **ashiqur.shohan@gmail.com**
 </p>
