@@ -2,7 +2,7 @@ Hi there 👋<br/>
  *[View My Resume](https://drive.google.com/file/d/1RZ5212CmfPuvvkZfaokG2KiGWEVoSOv3/view?usp=sharing)*
  | *[View My Certificates](https://github.com/ashiqur-shohan/Certificate-)*
 <br />
-<h1 align="center">Hi 👋, I'm Ashiqur Rahman Shohan</h1>
+# Hi 👋, I'm Ashiqur Rahman Shohan
 # 💫 About Me:
 <p>- 🔭 I’m currently working on [ByteJobs](https://github.com/ashiqur-shohan/byteJobs-frontend)<br><br>- 🌱 I’m currently learning **django-channels, cellery**<br><br>- 👯 I’m looking to collaborate on **Full-Stack PetHouse Web-Application**<br><br>- 👨‍💻 All of my projects are available at [https://shohan-portfolio.vercel.app/](https://shohan-portfolio.vercel.app/)<br><br>- 💬 Ask me about **django**<br><br>- 📫 How to reach me **ashiqur.shohan@gmail.com**
 </p>
