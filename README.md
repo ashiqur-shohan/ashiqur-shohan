@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, I'm Shohn! 👋</h1>
+<h1 align="center">Hey there, I'm Shohan! 👋</h1>
 
 <p align="center">
   <strong>Full Stack & DevOps Engineer &nbsp;·&nbsp; Startup Co-Founder &nbsp;·&nbsp; B.Sc. Statistics</strong><br/>
