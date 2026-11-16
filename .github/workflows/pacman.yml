@@ -19,6 +19,10 @@ jobs:
         uses: abozanona/pacman-contribution-graph@v5.0.0
         with:
           github_user_name: ${{ github.repository_owner }}
+          # The built-in token can't see private contribution counts, so the
+          # graph would only show public activity. PACMAN_TOKEN is a classic
+          # PAT with only the read:user scope.
+          github_token: ${{ secrets.PACMAN_TOKEN || github.token }}
           games: pacman
 
       - name: Push them to the output branch
