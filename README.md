@@ -1,4 +1,11 @@
+<a href="https://shohan-portfolio.vercel.app"><img src="assets/banner.png" alt="Full-stack engineer at DevTechGuru. Backends, UIs and the numbers underneath: ERP, accounting and billing systems, built to add up." width="100%"></a>
+
 # Hi, I'm Ashiqur Rahman Shohan
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&size=20&pause=1200&color=6FE3B5&vCenter=true&width=620&height=40&lines=Backend+APIs+in+Django%2C+FastAPI+and+Laravel;React+and+TypeScript+front+ends;PostgreSQL+and+MySQL+underneath;Ledgers+that+balance%2C+reports+that+add+up">
+  <img alt="Backend APIs in Django, FastAPI and Laravel. React and TypeScript front ends. PostgreSQL and MySQL underneath. Ledgers that balance, reports that add up." src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&size=20&pause=1200&color=0E7A57&vCenter=true&width=620&height=40&lines=Backend+APIs+in+Django%2C+FastAPI+and+Laravel;React+and+TypeScript+front+ends;PostgreSQL+and+MySQL+underneath;Ledgers+that+balance%2C+reports+that+add+up">
+</picture>
 
 Full-stack software engineer at DevTechGuru in Dhaka. I build backend services and REST APIs in Python (Django, FastAPI) and PHP (Laravel), React front ends, and the PostgreSQL and MySQL data models underneath. Most of my work is business software where the numbers have to add up: accounting, billing, ERP and reporting.
 
@@ -27,6 +34,13 @@ More detail, with diagrams, is in the [case studies on my portfolio](https://sho
 ## Writing
 
 - [Review in any order, merge in order](https://shohan-portfolio.vercel.app/blog/review-in-any-order-merge-in-order): two stacked pull requests got merged out of order and broke our test server. How I fixed it, and the Git trap that comes after a revert.
+
+## Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ashiqur-shohan/ashiqur-shohan/output/pacman-contribution-graph-dark.svg">
+  <img alt="Pac-Man eating my contribution graph" src="https://raw.githubusercontent.com/ashiqur-shohan/ashiqur-shohan/output/pacman-contribution-graph.svg">
+</picture>
 
 ## Background
 
